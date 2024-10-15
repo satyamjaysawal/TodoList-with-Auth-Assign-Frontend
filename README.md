@@ -53,4 +53,17 @@ This project uses the following dependencies:
 
 You can view the full list of dependencies in the `package.json` file.
 
+---
 
+![image](https://github.com/user-attachments/assets/d235fe58-e07e-4062-a563-51f869d7ad20)
+
+
+![image](https://github.com/user-attachments/assets/7d1498f8-e632-44c5-9dde-1be01fd099c7)
+
+
+
+![image](https://github.com/user-attachments/assets/5934f1ea-cf40-45bc-aca3-f10ea8326675)
+
+
+
+![image](https://github.com/user-attachments/assets/7a7187c7-2001-4ef3-9627-23408784563d)
